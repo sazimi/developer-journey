@@ -29,6 +29,16 @@ Resources related to the cloud or Azure in general. Not specific to the topic ye
 | [BRK1071 - Application modernization with Microsoft Azure](https://myignite.techcommunity.microsoft.com/sessions/65911?source=sessions) | Microsoft Azure is the best cloud for your applications. Our full-stack cloud covers frontend, backend, data, intelligence, and DevOps and we meet you where you are on your journey to the cloud. Join this session to learn how to modernize applications faster using your preferred technology stack or build applications born in the cloud, uniquely designed to take maximum advantage of the benefits and characteristics of the Azure platform. | 100 |
 | [THR1110 - Your web apps from code to deployed in a minute!](https://myignite.techcommunity.microsoft.com/sessions/66652?source=sessions#ignite-html-anchor) | Web developers want to focus on code, not be held back by the pain of getting an app deployed to Azure App Service. In this session, learn how to use Azure CLI to deploy your code to App Service with a single command, regardless of your language. | 200 |
 
+> **After this step developer has the knowledge about**
+> * Cloud computing in general
+> * Benefits of moving to the cloud
+> * Components of Azure without deep details
+
+> **Call to action. We offer the developer to**
+> * Know more about the service of interest by reading corresponding sections of docs
+> * Attend some online events dedicated to the particular component of Azure
+> * Attend some offline events to know more and meet the dev community
+
 ---
 
 ## Engagement
@@ -64,6 +74,15 @@ Resources related to the cloud or Azure in general. Not specific to the topic ye
 | --- | --- | --- |
 | [App Innovation Workshop](https://github.com/Microsoft/app-innovation-workshop) | Welcome to the Microsoft App Innovation Workshop. We've created this workshop to showcase the speed and ease at which you can leverage Microsoft's cloud platform to build data-driven intelligent apps. The workshop will give you insights and hands-on labs on how to leverage innovative scalable Cloud Backend Services for your applications. | 200 |
 
+> **After this step developer has the knowledge about**
+> * Corresponding Azure component(s) in deeper details
+> * Offline events related to the learning
+
+> **Call to action. We offer the developer to**
+> * Start the experiments with Azure
+> * Try some online hands-on labs
+> * Attend offline events dedicated to practical activities
+
 ---
 
 ## Experimentation
@@ -97,7 +116,6 @@ Similar quickstarts are available for .NET Core, Ruby, PHP, Python, Java, Java E
 Similar tutorials are available for .NET Core, Ruby, PHP, Python, Java, Java Enterprise and the same set for Windowa platform
 
 
-
 ### Developer Camps
 
 | Name/Link | Description | Level |
@@ -105,6 +123,14 @@ Similar tutorials are available for .NET Core, Ruby, PHP, Python, Java, Java Ent
 | [Cloud Immersion Experiences - Building a Foundation in Azure with Microsoft Experts](https://www.microsoftevents.com/profile/web/index.cfm?PKwebID=0x895129abcd) | Cloud Immersion Experiences (formerly Cloud Workshops) cover a full range of topics to help you expand and enhance your business with Microsoft Azure. Take advantage of this opportunity to get help from Microsoft and Partner experts as you delve deep into each solution. These are 300+ level advanced training workshops featuring a mix of architecture design and hands-on experience that allow you to discuss your technical needs and implement them in a live Azure environment. | 300-400 |
 | [Cloud Immersion Experience: Application Modernization - From IaaS to PaaS. SAMPLE EVENT](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x6482953abcd) | Join us for a 1-day deep technical hands-on immersion and learn how to modernize existing applications leveraging current developer services available on Microsoft Azure. | 300-400 |
 | [Microsoft Azure Developer Camp - EVENT BLUEPRINT](https://eventguide.azurewebsites.net/EventDetails/EventTemplateDetails/96de25da-94be-43e3-8180-4e6d1186ab96) | A free one-day technical training event for developers and IT professionals that delivers best practices and insights directly from Microsoft experts. Topics include building and managing fast, scalable and intelligent applications and hot to get the most out of Data & AI. It’s a full day of deep technical learning that will help our customers take their Azure skills to the next level. | 300 |
+
+> **After this step developer has the practical experience with**
+> * The component(s) of Azure they are interested in
+
+> **Call to action. We offer the developer to**
+> * To develop own apps at hackathons instead of guided workshops
+> * Think about the developer career by choosing some path
+> * Choose and go through some modules and courses aligned with the path
 
 ---
 
@@ -152,13 +178,16 @@ Similar tutorials are available for .NET Core, Ruby, PHP, Python, Java, Java Ent
 | [Microsoft Azure: Design and Implement App Service Apps](https://www.linkedin.com/learning/microsoft-azure-design-and-implement-app-service-apps?u=3322) | Gain the intermediate-level skills you need to deploy, configure, and manage Microsoft Azure Web Apps. This course can also help you prepare for the 70-533 exam: Implementing Microsoft Azure Infrastructure Solutions. Follow Sharon Bennett as she explains how to create Azure App Service plans, publish your apps to Azure using Visual Studio and OneDrive, and manage Web Apps using PowerShell and CLI. She covers configuring diagnostics, monitoring, and analytics, as well as how to configure your apps for scale and resilience. | 300 |
 | [Azure Enterprise Development: 2 Application Services](https://www.linkedin.com/learning/azure-enterprise-development-2-application-services?u=3322) | Microsoft Azure offers platform as a service (PaaS) solutions to build, deploy, and manage applications in the cloud. It also offers features that keep developers up to date with the latest frameworks and best practices. This course shows how to use Azure to support serverless architecture, rapid deployment, and DevOps workflows. | 300 |
 
-
-
 #### edX
 
 | Name/Link | Description | Level |
 | --- | --- | --- |
 | [Microsoft Azure App Service](https://www.edx.org/course/microsoft-azure-app-service-3) | Learn how to deploy web and mobile applications using Microsoft Azure App Services. | 300 |
+
+> **After this step developer has the deep knowledge about Azure services as well as extensive practical experience**
+
+> **Call to action. We offer the developer to**
+> * Get the developer certificate(s)
 
 ---
 
