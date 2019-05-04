@@ -28,13 +28,11 @@ Podcast coffee corner style, maximum 30 minutes where we invite a person with a 
 
 ### 3rd Party Conferences & Meetups
 
-| Name/Link | Description | Level |
-| --- | --- | --- |
-| [Migrating web applications to Azure](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Migrating-web-applications-to-Azure/m-p/284174) | When Tailwind Traders acquired Northwind Traders earlier this year, we wanted to be sure that we could access their inventory in real time, which meant moving their existing web API alongside ours on Microsoft Azure. In this session, we’ll look at how to migrate a frontend application to Azure, optimizing for speed and scale with Azure Storage. We’ll examine how to deploy, manage, monitor and backup both a Node.js and .NET Core API utilizing Azure App Service For Linux. Finally, we’ll see how a cloud architecture vastly simplifies the complexity that comes with an on-premise installation and frees you up to focus on your applications instead of your infrastructure. | 100 |
-| [BRK2201 - Get started migrating ASP.NET and WCF apps to Azure App Service](https://myignite.techcommunity.microsoft.com/sessions/65905?source=sessions) | Migrating applications to the cloud offers many benefits including better developer productivity, diagnostic capabilities, and scalability. Azure App Service is a fully managed, secure, and scalable platform that is a simple but powerful place to host cloud applications. In this session we look at the benefits of Azure App Service and how to migrate existing ASP.NET and Windows Communication Foundation (WCF) applications to this platform. | 100 |
-| [THR3105 - Best practices for mission critical apps on Azure App Service](https://myignite.techcommunity.microsoft.com/sessions/66630?source=sessions) | Azure App Service provides 99.95% SLA even for apps running on only a single instance. However, there are steps you should take as a developer to insulate your customers from perceived cold start latencies incurred when deploying a new version of an app. This session walks through using a combination of multi-phase deployment slots (swap with preview), local cache for disk resiliency, application initialization for warmup, and proper app service plan configuration to minimize cold start performance hits. | 200 |
-| [BRK1071 - Application modernization with Microsoft Azure](https://myignite.techcommunity.microsoft.com/sessions/65911?source=sessions) | Microsoft Azure is the best cloud for your applications. Our full-stack cloud covers frontend, backend, data, intelligence, and DevOps and we meet you where you are on your journey to the cloud. Join this session to learn how to modernize applications faster using your preferred technology stack or build applications born in the cloud, uniquely designed to take maximum advantage of the benefits and characteristics of the Azure platform. | 100 |
-| [THR1110 - Your web apps from code to deployed in a minute!](https://myignite.techcommunity.microsoft.com/sessions/66652?source=sessions#ignite-html-anchor) | Web developers want to focus on code, not be held back by the pain of getting an app deployed to Azure App Service. In this session, learn how to use Azure CLI to deploy your code to App Service with a single command, regardless of your language. | 200 |
+| Name/Link | Type | Description | Level |
+| --- | --- |--- | --- |
+|[Deploying Angular and Node to the Cloud!](http://slides.com/johnpapa/vikings2018#/5)| Keynote |Your Angular app is complete! Now it's time to deploy it to the cloud. But how? One key ingredient is determining our goals. Do you want to publish directly from your laptop or through source control and CI/CD? Do you worry that it may work differently on your machine than the cloud? What about locking down versions of node, packages, and OS? Is your head about to explode? We'll explore several good options as we discuss the pros and cons of each including direct deployments, GitHub hooks with CI, and docker. We'll demonstrate how to code, debug, and run docker locally to have confidence that what works locally will work in the cloud. The good news is that tooling has improved to make all of these deployment options within your reach to guide you to successfully deploy your Angular app to the cloud. - [Video](https://youtu.be/XmpEZN5TCjw) | 100 |
+| [THR3105 - Best practices for mission critical apps on Azure App Service](https://myignite.techcommunity.microsoft.com/sessions/66630?source=sessions) | Session |Azure App Service provides 99.95% SLA even for apps running on only a single instance. However, there are steps you should take as a developer to insulate your customers from perceived cold start latencies incurred when deploying a new version of an app. This session walks through using a combination of multi-phase deployment slots (swap with preview), local cache for disk resiliency, application initialization for warmup, and proper app service plan configuration to minimize cold start performance hits. | 200 |
+| [THR1110 - Your web apps from code to deployed in a minute!](https://myignite.techcommunity.microsoft.com/sessions/66652?source=sessions#ignite-html-anchor) | Session | Web developers want to focus on code, not be held back by the pain of getting an app deployed to Azure App Service. In this session, learn how to use Azure CLI to deploy your code to App Service with a single command, regardless of your language. | 200 |
 
 > **After this step developer has the knowledge about**
 > * Cloud computing in general
@@ -55,7 +53,7 @@ Podcast coffee corner style, maximum 30 minutes where we invite a person with a 
 | Name/Link | Description | Level |
 | --- | --- | --- |
 | [Architect scalable e-commerce web app](https://azure.microsoft.com/en-us/solutions/architecture/scalable-ecommerce-web-app?ocid=AID754288&wt.mc_id=CFID0361) | The e-commerce website includes simple order processing workflows with the help of Azure services. Using Azure Functions and Web Apps, developers can focus on building personalized experiences and let Azure take care of the infrastructure.| 200 |
-| [BRK3301 - Building enterprise grade web applications with Azure Networking’s application delivery suite - video](https://myignite.techcommunity.microsoft.com/sessions/66298?source=sessions#ignite-html-anchor) | his talk equips you with architectural guidance and proven best practices to build performant, scalable, highly available and secure modern enterprise grade web application in Azure. In this session we’ll also deep dive into exciting new capabilities in Azure Networking application delivery product suite including Azure CDN, Application Gateway, Azure Load balancer, and Traffic Manager. | 300 |
+| [BRK3301 - Building enterprise grade web applications with Azure Networking’s application delivery suite - video](https://myignite.techcommunity.microsoft.com/sessions/66298?source=sessions#ignite-html-anchor) | This talk equips you with architectural guidance and proven best practices to build performant, scalable, highly available and secure modern enterprise grade web application in Azure. In this session we’ll also deep dive into exciting new capabilities in Azure Networking application delivery product suite including Azure CDN, Application Gateway, Azure Load balancer, and Traffic Manager. | 300 |
 | [Run a basic web application in Azure](https://docs.microsoft.com/en-gb/azure/architecture/reference-architectures/app-service-web-app/basic-web-app) | This reference architecture shows proven practices for a web application that uses Azure App Service and Azure SQL Database | 200 |
 | [Node.js app with the npm SDK to talk to the Cosmos DB SQL API](https://www.youtube.com/watch?v=S8JS50PEc4c)| Build a Node.js console app with the JavaScript SDK to manage Azure Cosmos DB SQL API data | 300|
 |[Wolf Tracker: Vue.js + Azure Functions + more for a Secure, Cheap, Highly Scalable SPA!](https://liftcodeplay.com/2017/12/20/wolf-tracker-vue-js-azure-functions-more-for-a-secure-cheap-highly-scalable-spa/)|(How to built and hosted a secure, highly scalable site for very little cost (pretty much free).| 300|
@@ -81,7 +79,7 @@ We need more fornt-end friendly content for Discover days
 
 | Name/Link | Description | Level |
 | --- | --- | --- |
-| [CloudFront](https://github.com/sazimi/developer-journey/blob/master/cloud-front.md) |Full day conference one track conference to inspire Front-end developers. | 200-300 |
+| [CloudFront](./cloud-front.md) |Full day conference one track conference to inspire Front-end developers. | 200-300 |
 
 > **After this step developer has the knowledge about**
 > * Corresponding Azure component(s) in deeper details
@@ -100,43 +98,21 @@ We need more fornt-end friendly content for Discover days
 
 | Name/Link | Description | Level |
 | --- | --- | --- |
-| [Modern cloud apps](https://github.com/Microsoft/MCW-Modern-Cloud-App) | In this workshop, you will work as a group to implement an end-to-end solution for e-commerce that is based on Azure App Services, Azure Active Directory, and Azure DevOps. You will ensure the solution is PCI compliant, and appropriate security measures are put into place for both on-premises and public access scenarios. | 300 |
-| [App modernization](https://github.com/Microsoft/MCW-App-Modernization) | In this workshop, you will gain a better understanding on the steps involved in modernizing legacy on-premises applications and infrastructure by leveraging cloud services, while adding a mix of web and mobile services, all secured using Azure Active Directory. | 300 |
-| [Microsoft Azure Development for AWS Developers with Node.js](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://content-private/content/sp-compete/2-awsfordev/a_dev) | See how to quickly create a functional web app in Azure while comparing the Microsoft cloud experience with AWS | 300 |
-
-| [CloudFront workshop](https://github.com/sazimi/developer-journey/blob/master/cloud-front-workshop.md) | Full day conference one track conference to inspire Front-end developers. | 200-300 |
-### Quickstarts
-
-| Name/Link | Description | Level |
-| --- | --- | --- |
-| [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/?resourceType=Microsoft.Web) | Deploy Azure resources through the Azure Resource Manager with community contributed templates to get more done. Deploy, learn, fork and contribute back. | 300 |
-| [Create a Node.js app in Azure App Service on Linux](https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-nodejs) | App Service on Linux provides a highly scalable, self-patching web hosting service using the Linux operating system. This quickstart shows how to deploy a Node.js app to App Service on Linux using the Cloud Shell. | 300 |
-
-Similar quickstarts are available for .NET Core, Ruby, PHP, Python, Java, Java Enterprise and the same set for Windowa platform
-
-### Tutorials
-
-| Name/Link | Description | Level |
-| --- | --- | --- |
-| [Azure Web App - Video](https://channel9.msdn.com/Blogs/MVP-Azure/Azure-Web-App) | This tutorial shows how to deploy an ASP.NET web application to a web app in Azure App Service by using Visual Studio 2015 or Visual Studio 2013. The tutorial assumes that you are an ASP.NET developer who has no prior experience with using Azure. On completing the tutorial, you'll have a simple web application up and running in the cloud. | 200 |
-| [Python/Django video tutorials for productive cloud development](https://cloudblogs.microsoft.com/opensource/2018/12/11/python-django-developers-learn-about-cloud-videos/) | Python is a great language for building web apps, and Django is one of the most popular frameworks. It lets developers create web apps fast, including modern RESTful APIs, with security and scalability in mind. | 300 |
-| [Build a Node.js and MongoDB app in Azure App Service on Linux](https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-nodejs-mongodb-app) | App Service on Linux provides a highly scalable, self-patching web hosting service using the Linux operating system. This tutorial shows how to create a Node.js app, connect it locally to a MongoDB database, then deploy it to a database in Azure Cosmos DB's API for MongoDB. When you're done, you'll have a MEAN application (MongoDB, Express, AngularJS, and Node.js) running in App Service on Linux. For simplicity, the sample application uses the MEAN.js web framework. | 200 |
-
-Similar tutorials are available for .NET Core, Ruby, PHP, Python, Java, Java Enterprise and the same set for Windowa platform
+|[CloudFront workshop](./cloud-front-workshop.md) | Full day workshop focus on build and deploy a Front-end app. | 300 |
+|[Angular Azure Workshop](https://github.com/Angular-Azure-Workshop/workshop-modules)| Workshop which covers: Azure Storage and DevOps, Azure functions, CosmosDB, Authentication & Azure Security| 300 |
+|[Azure and Node.js Bots Workshop](https://github.com/kamranayub/workshop-nodejs-azure-bots)|Build a basic bot that accepts a user question, parses it, and returns a response. This workshop covers: Azure Bot Service,  Bot Builder SDK with Node.js & Luis|
 
 ### In Person Tech Domain Seminars  
 
 
 | Name/Link | Description | Level |
 | --- | --- | --- |
-| [CloudFront](https://github.com/sazimi/developer-journey/blob/master/cloud-front.md) |ull day conference one track conference to inspire Front-end developers. | 200-300 |
+| [CloudFront](./cloud-front.md) |Full day conference one track conference to inspire Front-end developers. | 200-300 |
 
 ### Developer Camps
 
 | Name/Link | Description | Level |
 | --- | --- | --- |
-| [Cloud Immersion Experiences - Building a Foundation in Azure with Microsoft Experts](https://www.microsoftevents.com/profile/web/index.cfm?PKwebID=0x895129abcd) | Cloud Immersion Experiences (formerly Cloud Workshops) cover a full range of topics to help you expand and enhance your business with Microsoft Azure. Take advantage of this opportunity to get help from Microsoft and Partner experts as you delve deep into each solution. These are 300+ level advanced training workshops featuring a mix of architecture design and hands-on experience that allow you to discuss your technical needs and implement them in a live Azure environment. | 300-400 |
-| [Cloud Immersion Experience: Application Modernization - From IaaS to PaaS. SAMPLE EVENT](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x6482953abcd) | Join us for a 1-day deep technical hands-on immersion and learn how to modernize existing applications leveraging current developer services available on Microsoft Azure. | 300-400 |
 | [Microsoft Azure Developer Camp - EVENT BLUEPRINT](https://eventguide.azurewebsites.net/EventDetails/EventTemplateDetails/96de25da-94be-43e3-8180-4e6d1186ab96) | A free one-day technical training event for developers and IT professionals that delivers best practices and insights directly from Microsoft experts. Topics include building and managing fast, scalable and intelligent applications and hot to get the most out of Data & AI. It’s a full day of deep technical learning that will help our customers take their Azure skills to the next level. | 300 |
 
 > **After this step developer has the practical experience with**
@@ -162,42 +138,22 @@ Similar tutorials are available for .NET Core, Ruby, PHP, Python, Java, Java Ent
 
 #### MS Learn
 
-| Name/Link | Description | Level |
-| --- | --- | --- |
-| [Host a web application with Azure App service](https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/) | Azure App Service enables you to build and host web applications in the programming language of your choice without managing infrastructure. Learn how to create a website through the hosted web app platform in Azure App Service. | 300 |
-| [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/) | Web apps in Azure allow you to publish and manage your website easily without having to work with the underlying servers, storage, or network assets. Instead, you can focus on your website features and rely on the robust Azure platform to provide secure access to your site. | 300 |
-| [Publish a web app to Azure with Visual Studio](https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/) | Use the publishing features of Visual Studio 2017 to deploy and manage an ASP.NET Core web application hosted on Azure. | 300 |
-| [Instrument server-side web application code with Application Insights](https://docs.microsoft.com/en-us/learn/modules/instrument-web-app-code-with-application-insights/) | Obtain comprehensive diagnostic information from a web app by adding the Application Insights SDK to your server-side code. | 300 |
-| [Capture and view page load times in your Azure web app with Application Insights](https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/) | Application Insights is an Azure service that you can use to monitor the behavior and performance of a web application. If you run a web app in Azure, you can take advantage of several benefits provided by Application Insights simply by enabling it, without changing any of your code. When you complete this module, you'll know how to enable Application Insights and client-side monitoring and view metrics in the portal. | 300 |
-| [Scale an App Service web app to efficiently meet demand with App Service scale up and scale out](https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/) | Respond to periods of increased activity by incrementally increasing the resources available and then, to reduce costs, decreasing these resources when activity drops. | 300 |
+| Name/Link | Type |Description | Level |
+| --- | --- | --- | --- |
+| [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/) | Path |Web apps in Azure allow you to publish and manage your website easily without having to work with the underlying servers, storage, or network assets. Instead, you can focus on your website features and rely on the robust Azure platform to provide secure access to your site. | 300 |
+| [Create serverless logic with Azure Functions]https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/index) | Module | Azure Functions allows developers to host business logic that can be executed without managing or provisioning infrastructure. | 200 |
+| [Deploy a website with Azure virtual machines](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/) | Path | If your web hosting requirements aren't directly supported by the Azure Web app platform, you can leverage virtual machines to customize and control every aspect of the web server. Learn how to create, configure, and manage virtual machines on Linux and Windows that host web apps.| 300 |
+| [Deploy and run a containerized web app with Azure App Service](https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/) | Create a Docker image and store it in a repository in Azure Container Registry. Use Azure App Service to deploy a web application based on the Docker image. Configure continuous deployment for the web app by using a webhook that monitors the Docker image for changes. | Module | 300 |
+| [Capture and view page load times in your Azure web app with Application Insights](https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/) | Application Insights is an Azure service that you can use to monitor the behavior and performance of a web application. If you run a web app in Azure, you can take advantage of several benefits provided by Application Insights simply by enabling it, without changing any of your code. When you complete this module, you'll know how to enable Application Insights and client-side monitoring and view metrics in the portal. | Module | 300 |
+| [Create serverless logic with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/| Azure Functions allows developers to host business logic that can be executed without managing or provisioning infrastructure. In this module, you will:Decide if serverless computing is right for your business need,Create an Azure Function app in the Azure portal, Execute a function using triggers, Monitor and test your Azure Function from the Azure portal| Module | 300 |
 | [Dynamically meet changing web app performance requirements with autoscale rules](https://docs.microsoft.com/en-us/learn/modules/app-service-autoscale-rules/) | Respond to periods of high activity by incrementally adding resources, and then removing these resources when activity drops, to reduce costs. | 300 |
-| [Stage a web app deployment for testing and rollback by using App Service deployment slots](https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/) | Use deployment slots to streamline deployment and roll back a web app in Azure App Service. | 300 |
-| [Optimize your web applications by caching read-only data with Redis](https://docs.microsoft.com/en-us/learn/modules/optimize-your-web-apps-with-redis/) | Use Redis caching in Azure to reduce the load on databases. Apply different caching architectures to support larger loads in distributed and high-volume environments. | 300 |
+| [Execute an Azure Function with triggers](https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/) | A trigger is responsible for executing an Azure function and there are dozens of triggers to choose from. This module will you show you some of the most common types of triggers and how to configure them to execute your logic. | Module | 300 |
 
 #### Pluralsight
 
 | Name/Link | Description | Level |
 | --- | --- | --- |
-| [Application Development on Microsoft Azure - Path](https://app.pluralsight.com/paths/skills/application-development-on-microsoft-azure) | Application development on Microsoft Azure incorporates many strategies of traditional development and introduces new possibilities that are part of leveraging the cloud. In this path you’ll learn about refactoring code and managing code reviews, enabling search on textual content, autoscaling, and artificial intelligence on Microsoft Azure. | 100-400 |
-| [Architecting Microsoft Azure Solutions (70-534): Design Web Apps](https://app.pluralsight.com/library/courses/architecting-azure-solutions-70-534-web-apps/table-of-contents) | This course helps learners with the Design Azure Web Apps objective domain of the 70-534 Architecting Microsoft Azure Solutions exam. | 200 |
-| [Azure Websites and WebJobs](https://app.pluralsight.com/library/courses/windows-azure-websites-web-jobs/table-of-contents) | This course provides detailed information about deploying, hosting, and managing your website and Microsoft Azure. | 200 |
-| [Modernizing Your Websites with Azure Platform as a Service](https://app.pluralsight.com/library/courses/modernizing-websites-microsoft-azure/table-of-contents) | "The Cloud" is an increasingly attractive proposition for hosting websites online, and Microsoft Azure is an absolute standout. Their "platform as a service" offerings for both websites and databases offer fantastic features, massive scalability | 200 |
-| [Building a Global App with Azure PaaS](https://app.pluralsight.com/library/courses/azure-paas-building-global-app/table-of-contents) | Microsoft Azure provides a lot of the plumbing and "boring" stuff for you, so that you can focus on building things that matter. This course will teach you how to use Azure's PaaS offering to build global, performant, and secure applications. | 200 |
-
-#### LinkedIn Learning
-
-| Name/Link | Description | Level |
-| --- | --- | --- |
-| [Building a Web Application on Microsoft Azure](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure?u=3322) | Microsoft Azure boasts a variety of services for developers looking to build a web application on the popular cloud computing platform. In this hands-on course, Matt Milner details how to build web applications that take advantage of several of these services, including data storage offerings, Logic Apps, Azure Functions, and Azure Resource Manager. To introduce you to these options, Matt steps through how to extend a sample web app using Azure services, explaining why each option he selected is ideal for this particular project, as well as how to integrate and leverage each option. Learn about using Logic Apps for workflow and integration, how Azure Functions enable serverless compute and integrate with other offerings, and more. | 300 |
-| [Microsoft Azure: Design Azure Web and Mobile Apps](https://www.linkedin.com/learning/microsoft-azure-design-azure-web-and-mobile-apps?u=3322) | Being able to create a wide variety of apps is part of the new IT reality. Companies expect IT professionals to be comfortable architecting applications such as custom web APIs to reach a broad range of clients, web apps for business continuity, and mobile apps that push notifications to users. Azure makes it easier to host, run, and scale these websites and applications. | 300 |
-| [Microsoft Azure: Design and Implement App Service Apps](https://www.linkedin.com/learning/microsoft-azure-design-and-implement-app-service-apps?u=3322) | Gain the intermediate-level skills you need to deploy, configure, and manage Microsoft Azure Web Apps. This course can also help you prepare for the 70-533 exam: Implementing Microsoft Azure Infrastructure Solutions. Follow Sharon Bennett as she explains how to create Azure App Service plans, publish your apps to Azure using Visual Studio and OneDrive, and manage Web Apps using PowerShell and CLI. She covers configuring diagnostics, monitoring, and analytics, as well as how to configure your apps for scale and resilience. | 300 |
-| [Azure Enterprise Development: 2 Application Services](https://www.linkedin.com/learning/azure-enterprise-development-2-application-services?u=3322) | Microsoft Azure offers platform as a service (PaaS) solutions to build, deploy, and manage applications in the cloud. It also offers features that keep developers up to date with the latest frameworks and best practices. This course shows how to use Azure to support serverless architecture, rapid deployment, and DevOps workflows. | 300 |
-
-#### edX
-
-| Name/Link | Description | Level |
-| --- | --- | --- |
-| [Microsoft Azure App Service](https://www.edx.org/course/microsoft-azure-app-service-3) | Learn how to deploy web and mobile applications using Microsoft Azure App Services. | 300 |
+| [Microsoft Azure Stack: The Big Picture](This course is aimed at those interested in Cloud technologies for their business, but have security or compliance concerns that require on-premises solutions. | 100 |
 
 > **After this step developer has the deep knowledge about Azure services as well as extensive practical experience**
 
