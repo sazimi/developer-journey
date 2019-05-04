@@ -176,6 +176,8 @@ Some resources that are too small or unstructured to be a part of the journey bu
 
 *[How to fetch Azure Blob Storage with JavaScript](https://medium.com/microsoftazure/how-to-fetch-azure-blob-storage-with-javascript-30374c7b7017) 
 * [Deploying an App with the Azure CLI](https://dev.to/azure/deploying-an-app-with-the-cli-2ol5)
+* [11 Awesome Resources for Building Your Applications in CI Using Azure DevOps Pipelines](https://dev.to/azure/11-awesome-resources-for-building-your-applications-in-ci-using-azure-devops-pipelines-41mk)
+*
 
 
 ### Wider scope
@@ -190,20 +192,14 @@ Some resources that are too small or unstructured to be a part of the journey bu
 ### Digital
 
 * [Azure documentation](https://docs.microsoft.com/en-gb/azure/)
-* [edX](https://www.edx.org/learn/azure)
 * [Pluralsight](https://www.pluralsight.com/partners/microsoft/azure)
 * [Channel9](https://channel9.msdn.com/Tags/azure)
-* [Azure Videos](https://azure.microsoft.com/en-us/resources/videos/index/?services=app-service)
-* [Event Videos](https://eventguide.azurewebsites.net/Events/AssetCatalog)
 * [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 * [Microsoft Developer Channel](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
 * [Microsoft Azure Channel](https://www.youtube.com/user/windowsazure)
 * [Azure Webinars](https://azure.microsoft.com/en-us/overview/webinars-search/)
 * [Azure Blog](https://azure.microsoft.com/en-us/blog/)
-* [LinkedIn Learning](https://www.linkedin.com/learning/search?contentBy=LINKEDIN_LEARNING&keywords=Microsoft%20Azure&u=3322)
-* [Videos on Microsoft Stream](https://msit.microsoftstream.com/channel/f0ce9806-5b21-4d7f-b152-0006a3536284)
 * [Azure Resources](https://azure.microsoft.com/en-us/resources/)
-* [AirTable Content Repository](https://airtable.com/tblBRTD4mgLWBR0wf/viwKPCOGkhFvhGzSQ?blocks=hide)
 * [Dev](https://dev.to/azure/)
 * [Ignite Tour Sessions](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/ct-p/MicrosoftIgniteTour?audience=&type=&topic=Azure&format=&level=&persona=&product=&tag=&speakers=&location=&onlineEvent=false)
 * [Ignite Sessions](https://myignite.techcommunity.microsoft.com/sessions?t=%257B%2522from%2522%253A%25222018-09-23T08%253A00%253A00-04%253A00%2522%252C%2522to%2522%253A%25222018-09-28T19%253A00%253A00-04%253A00%2522%257D&f=%255B%257B%2522name%2522%253A%2522Azure%255CtWeb%2520%252B%2520Mobile%2522%252C%2522facetName%2522%253A%2522products%2522%257D%255D#ignite-html-anchor)
